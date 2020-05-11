@@ -1,5 +1,6 @@
 package org.example.oneOones.solid;
 
+
 public class Report {
 
     public void print() {
