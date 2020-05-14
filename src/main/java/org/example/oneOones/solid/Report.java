@@ -1,6 +1,8 @@
 package org.example.oneOones.solid;
 
 
+import org.example.oneOones.solid.reportFormatter.ReportFormatter;
+
 public class Report {
 
     public void print() {

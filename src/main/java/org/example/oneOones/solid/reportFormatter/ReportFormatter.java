@@ -1,4 +1,4 @@
-package org.example.oneOones.solid;
+package org.example.oneOones.solid.reportFormatter;
 
 public class ReportFormatter {
 
