@@ -1,6 +1,8 @@
-package org.example.oneOones.solid;
+package org.example.oneOones.solid.report;
 
 
+import org.example.oneOones.solid.DataAccess;
+import org.example.oneOones.solid.ReportPrinter;
 import org.example.oneOones.solid.reportFormatter.ReportFormatter;
 
 public class Report {
