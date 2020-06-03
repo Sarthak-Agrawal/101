@@ -1,0 +1,11 @@
+solid/reportFormatter/LetterReportFormatter.class
+solid/report/LetterReport.class
+solid/printer/TabloidReportPrinter.class
+solid/printer/LetterReportPrinter.class
+solid/DataAccess.class
+solid/reportFormatter/TabloidLetterReportFormatter.class
+solid/reportFormatter/ReportFormatter.class
+solid/printer/ReportPrinter.class
+solid/report/TabloidLetterReport.class
+solid/Program.class
+solid/report/Report.class
